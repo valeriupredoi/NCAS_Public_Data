@@ -70,6 +70,13 @@ Multiple (tens to one hundred) software packages that I contribute to, these bel
 | **[MyProxyClient](https://github.com/cedadev/MyProxyClient)** | Python client for the MyProxy credential-management service, used in scientific data infrastructures. | Significant contributions and package maintenance. | Public project. |
 | **[ppfive](https://pypi.org/project/ppfive/)** | PP/Fields reader with a pyfive-style high-level API. | Listed as a PyPI maintainer and package author. | Archived. |
 
+**Evidence synthesis and reviews**
+
+| Year | Publication / document reviewed | Journal / organisation | Type of review | Evidence |
+|---|---|---|---|---|
+| **2022** | *The E3SM Diagnostics Package (E3SM Diags v2.7): a Python-based diagnostics package for Earth system model evaluation* | *Geoscientific Model Development* | Formal journal referee review; named as one of two reviewers | [Published article](https://doi.org/10.5194/gmd-15-9031-2022) · [Public referee discussion and report](https://gmd.copernicus.org/articles/15/9031/2022/gmd-15-9031-2022-discussion.html) |
+| **2021** | *Initial requirements on model evaluation* (IS-ENES3 Deliverable D3.1) | IS-ENES3 / European research infrastructure project | Formal project-document review | [Deliverable PDF](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D3.1-vf.pdf) |
+
 **Public good**
 
 I am the unofficial IT manager at NCAS at Reading: I am in charge of procurement (computing: laptops, tablets etc, hardware, peripherals, software) and I am the direct liaison of NCAS@Reading with UREAD central IT (DTS) for negotiation, mitigation, and tailoring to NCAS specific needs whatever decision and implementation they take and act upon. This role also includes assisting NCAS folks with software and hardware issues, advice/consultancy on software and hardware matters, and anything else computing I can help with. This is a rather demanding role (even if I am not paid for, nor am I rewarded in any other way).
